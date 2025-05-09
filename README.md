@@ -51,7 +51,7 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 Chạy file Python bằng lệnh:
 
 ```
-python phat_nguoi.py
+python PhatNguoi.py
 ```
 Màn hình sẽ hiển thị: Đang chạy...
 Chương trình sẽ tự động chạy mỗi ngày lúc 06:00 và 12:00.
