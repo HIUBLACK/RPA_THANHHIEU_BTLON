@@ -57,8 +57,8 @@ Màn hình sẽ hiển thị: Đang chạy...
 Chương trình sẽ tự động chạy mỗi ngày lúc 06:00 và 12:00.
 ##  Cấu trúc thư mục
 ```
-📁 du-an-tra-cuu-phat-nguoi/
-├── phat_nguoi.py
+📁 BaiTapLon_PhatNguoi/
+├── PhatNguoi.py
 ├── requirements.txt
 └── README.md
 ```
