@@ -1,0 +1,4 @@
+selenium==4.19.0
+pillow==10.2.0
+pytesseract==0.3.10
+schedule==1.2.1
